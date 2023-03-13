@@ -1,0 +1,11 @@
+Nombre Sexo Edad Estatura Peso ColorPelo FechaNac LugarNac
+Felipe Hombre 18 1,72 75.4 Moreno 11/23/1986 Granada
+Pedro Hombre 20 1,91 82.3 Rubio 3/11/1985 Granada
+Ana Mujer 18 1,67 55.5 Pelirrojo 4/1/1987 Sevilla
+Ismael Hombre 17 1,82 73.0 Castaño 9/9/1987 Jaén
+Eloy Hombre 19 1,77 75.6 Rubio 4/22/1986 Granada
+Julia Mujer 19 1,81 63.1 Rubio 9/11/1985 Jaén
+Eva Mujer 19 1,73 65.2 Moreno 2/28/1986 Málaga
+José Hombre 18 1,84 79.0 Castaño 1/1/1987 Granada
+Patricia Mujer 18 1,87 68.4 Pelirrojo 9/27/1988 Granada
+Miriam Mujer 21 1,60 54.5 Moreno 3/3/1984 Granada
